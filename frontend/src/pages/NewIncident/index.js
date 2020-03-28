@@ -52,17 +52,17 @@ export default function NewIncident() {
           <input 
             placeholder="Título do caso"
             value={title}
-            onChange={setTitle(e => e.target.value)}
+            onChange={e => setTitle(e.target.value)}
             />
           <textarea 
             placeholder="Descrição"
             value={description}
-            onChange={setDescription(e => e.target.value)}
+            onChange={e => setDescription(e.target.value)}
             />
           <input 
             placeholder="Valor em reais"
             value={value}
-            onChange={setValue(e => e.target.value)}
+            onChange={e => setValue(e.target.value)}
             />
 
           <button className="button">Cadastrar</button>
