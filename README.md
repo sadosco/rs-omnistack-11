@@ -3,7 +3,7 @@
 # RocketSeat Omnistack 11.0
 
 **Introdução**
-A semana omnistack oferecida pela RocketSeat é um serviço de estudo via vídeo aula gratuito realizado pelo CTO Diego Fernandes. Nele desenvolvemos um projeto contando com diversos conteúdos a respeito das tecnologias Node.js, React e React Native.
+A semana omnistack oferecida pela RocketSeat é um evento de estudo via vídeo aula gratuito realizado pelo CTO Diego Fernandes. Nele desenvolvemos um projeto contando com diversos conteúdos a respeito das tecnologias Node.js, React e React Native.
 
 **Be The Hero**
 Be The Hero é a aplicação que desenvolvemos nessa semana. Um sistema para contribuição de despesas para ONGs, podendo contar com a ajuda de voluntários para ajudar com os custos.
